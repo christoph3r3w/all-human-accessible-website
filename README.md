@@ -16,11 +16,11 @@
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
-Vscode
-Miro
-Google-fonts
-HTML
-CSS
+* Vscode
+* Miro
+* Google-fonts
+* HTML
+* CSS
 
 ## Bronnen
 
